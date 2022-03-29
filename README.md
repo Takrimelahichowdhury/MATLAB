@@ -1,0 +1,2 @@
+# MATLAB
+MATLAB is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks. MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages. In this repository, I shared some of my code which I had written for  Numerical method sessional course in my University Life.
